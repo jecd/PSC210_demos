@@ -1,0 +1,5 @@
+.ipynb*/
+**/ds000114/
+*.feat/
+*.Dockerfile
+scratch.sh
